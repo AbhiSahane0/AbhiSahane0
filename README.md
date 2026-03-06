@@ -109,7 +109,7 @@ Features:
 
 ## Megal
 
-A platform I'm building focused on **real-time applications and scalable architecture**.
+A platform I'm building focused on **real-time video chat with strangers**.
 
 Tech used:
 React
@@ -117,18 +117,6 @@ TypeScript
 Node.js
 WebSockets
 Modern UI Architecture
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-abhi.vercel.app/api?username=AbhiSahane0&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats-abhi.vercel.app/api/top-langs/?username=AbhiSahane0&layout=compact&theme=radical"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
