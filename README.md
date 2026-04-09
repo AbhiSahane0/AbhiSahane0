@@ -1,139 +1,157 @@
-# Hi 👋 I'm Abhijit
+# Abhijit Sahane
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Open+Source+Contributor;Building+Megal&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;Building+Scalable+Products;Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
-Frontend Developer passionate about building **scalable web applications, open source tools, and real-world products**.
-
-Currently working as a **Frontend Developer** and building my own product **Megal** while contributing to open source.
-
----
-
-# 🚀 About Me
-
-- 💻 Frontend Developer with experience building production-scale applications
-- ⚛️ Specialized in **React, TypeScript, and modern UI architecture**
-- ⚙️ Strong backend foundation with **.NET APIs and Node.js**
-- ☁️ Experience working with **Azure SQL and cloud-based systems**
-- 🌱 Currently exploring **Open Source, System Design, and Product Development**
+<p align="center">
+  Building performant, scalable, and real-world web applications.
+</p>
 
 ---
 
-# 🧰 Tech Stack
+## Profile
 
-### Languages
+Frontend Engineer focused on crafting **high-performance user interfaces** and **production-ready web applications**.
 
+I work across the stack when needed, with a strong foundation in backend systems, enabling me to build **end-to-end scalable products**.
+
+Currently:
+- Working as a **Frontend Developer**
+- Building **Megal** — a real-time communication platform
+- Contributing to **open source**
+
+---
+
+## What I Bring
+
+- Strong expertise in **React, TypeScript, and modern frontend architecture**
+- Experience building **production-scale applications with clean UI systems**
+- Backend understanding with **Node.js and .NET APIs**
+- Focus on **performance, scalability, and maintainability**
+- Product mindset — not just features, but real-world usability
+
+---
+
+## Tech Stack
+
+### Core Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,java,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,html,css,sql" />
 </p>
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
 </p>
 
 ### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb" />
 </p>
 
-### Tools
-
+### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure" />
 </p>
 
 ---
 
-# 🛠 Open Source Contributions
+## Open Source Work
 
 ### React TypeScript UI Library
 
-Added support for an **image prop** in the `Pending` component.
+Enhanced the `Pending` component with improved flexibility and UX.
 
-Features implemented:
+**Key Contributions:**
+- Added support for **custom image rendering**
+- Implemented image placement:
+  - Inside circular loader
+  - Above progress bar
+- Responsive image scaling
+- Documentation improvements
 
-- Image centered inside **circular loader**
-- Image above **horizontal progress bar**
-- Responsive image scaling based on component size
-- Updated documentation
-
-This improves the **customization and UX flexibility** of the loading component.
-
----
-
-# 🚀 Projects
-
-### 🏨 The Wild Oasis
-
-A hotel booking platform built with **Next.js and Supabase**
-
-Key features:
-
-- Server-side rendering
-- Dynamic routing
-- Secure authentication with NextAuth
-- SEO optimized architecture
+**Impact:**
+Improved **customization capability** and **developer experience** of the component.
 
 ---
 
-### 🌍 Natours API
+## Selected Projects
 
-Secure **RESTful travel API**
+### The Wild Oasis
 
-Features:
+A modern hotel booking platform built with **Next.js and Supabase**.
 
-- JWT authentication
-- CRUD operations for tours and bookings
-- Filtering, sorting and pagination
-- MongoDB query optimization
+**Highlights:**
+- Server-side rendering for performance
+- Dynamic routing architecture
+- Secure authentication using NextAuth
+- SEO-focused structure
 
 ---
 
-### 📱 React Native Blog App
+### Natours API
 
-Full-stack mobile blogging application.
+A scalable RESTful API for travel applications.
 
-Features:
+**Highlights:**
+- JWT-based authentication
+- Advanced filtering, sorting, pagination
+- Optimized MongoDB queries
+- Clean and modular backend architecture
 
+---
+
+### React Native Blog App
+
+Full-stack mobile blogging platform.
+
+**Highlights:**
 - Type-safe navigation with TypeScript
-- Express.js backend APIs
-- MongoDB data management
+- REST APIs with Express.js
+- MongoDB integration
+- Scalable mobile architecture
 
 ---
 
-# 🚧 Currently Building
+## Current Focus
 
-## Megal
+### Megal
 
-A platform I'm building focused on **real-time video chat with strangers**.
+Building a real-time video chat platform.
 
-Tech used:
-React
-TypeScript
-Node.js
-WebSockets
-Modern UI Architecture
+**Focus Areas:**
+- WebSocket-based communication
+- Scalable real-time architecture
+- Abuse prevention using AI systems
+- Clean and responsive UI systems
 
-# 🔥 GitHub Streak
+**Tech:**
+React • TypeScript • Node.js • WebSockets
+
+---
+
+## GitHub Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AbhiSahane0&theme=radical"/>
-
+  <img src="https://streak-stats.demolab.com?user=AbhiSahane0&theme=radical"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+## Connect
 
-- LinkedIn : **https://www.linkedin.com/in/abhijit-sahane/**
-- Portfolio : **https://new-portfolio-4327rqbvz-abhisahane0s-projects.vercel.app/**
+- LinkedIn: https://www.linkedin.com/in/abhijit-sahane/
+- Portfolio: https://new-portfolio-4327rqbvz-abhisahane0s-projects.vercel.app/
 - Email: cloudabhi123@gmail.com
 
 ---
 
-⭐ Always open to collaborating on **open source and product ideas**
+## Philosophy
+
+I focus on building systems that are:
+- Scalable
+- Maintainable
+- User-centric
+
+Always open to collaborating on meaningful products and open source work.
